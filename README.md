@@ -1,7 +1,7 @@
 # Ejercicio-tema-8-Encapsulacion
 
 
-## Table of Contents
+## Enunciado del ejercicio:
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
